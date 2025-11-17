@@ -6,5 +6,5 @@
 # Visit Us
 🌐 [Website](https://www.fwrdcrm.com)
 
-# Want ou help to customer your Zoho CRM?
+# Want our help to customize your Zoho Apps?
 📧 Shot us an email [support@fwrdcrm.com](support@fwrdcrm.com)
